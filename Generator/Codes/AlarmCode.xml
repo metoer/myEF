@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Alarmlog>
+	<Item ID="11" moduleName="NetManageCenterServer" moduleAlias="网管服务" alarmCode="9911" alarmLevel="2" alarmMark="连接网管服务异常" />
+	<Item ID="12" moduleName="NetManageAgent" moduleAlias="网管代理" alarmCode="9912" alarmLevel="2" alarmMark="连接网管代理异常" />
+	<Item ID="13" moduleName="CloudWebServer" moduleAlias="电子证据查询管理服务" alarmCode="9913" alarmLevel="2" alarmMark="连接电子证据查询管理服务异常" />
+	<Item ID="14" moduleName="StreamingServer" moduleAlias="流媒体服务" alarmCode="9914" alarmLevel="2" alarmMark="连接流媒体服务异常" />
+	
+	<Item ID="16" moduleName="StationServer" moduleAlias="采集站服务" alarmCode="9916" alarmLevel="2" alarmMark="连接采集站服务异常" />
+	<Item ID="17" moduleName="FileService-FTP" moduleAlias="文件服务-FTP" alarmCode="9917" alarmLevel="2" alarmMark="连接文件服务-FTP异常" />
+	<Item ID="18" moduleName="CloudCenter" moduleAlias="电子证据云中心" alarmCode="9918" alarmLevel="2" alarmMark="连接电子证据云中心异常" />
+	<Item ID="19" moduleName="LogService" moduleAlias="日志服务" alarmCode="9919" alarmLevel="2" alarmMark="连接日志服务异常" />
+	<Item ID="20" moduleName="ServantRouter" moduleAlias="集群路由服务" alarmCode="9920" alarmLevel="2" alarmMark="连接集群路由服务异常" />
+	<Item ID="21" moduleName="WebServiceInStation" moduleAlias="采集站WebService" alarmCode="9921" alarmLevel="2" alarmMark="连接采集站WebService异常" />
+	<Item ID="22" moduleName="WebServiceInCloud" moduleAlias="云中心WebService" alarmCode="9922" alarmLevel="2" alarmMark="连接云中心WebService异常" />
+	<Item ID="23" moduleName="FileService-HDFS" moduleAlias="文件服务-HDFS" alarmCode="9923" alarmLevel="2" alarmMark="连接文件服务-HDFS异常" />
+	<Item ID="24" moduleName="DBService-PostgreSQL" moduleAlias="数据库服务-PostgreSQL" alarmCode="9924" alarmLevel="2" alarmMark="连接数据库服务-PostgreSQL异常" />
+	<Item ID="25" moduleName="DBService-PostgreSQL-DS" moduleAlias="数据库服务-PostgreSQL(采集站)" alarmCode="9925" alarmLevel="2" alarmMark="连接数据库服务-PostgreSQL(采集站)异常" />
+	<Item ID="26" moduleName="DBService-HBASE" moduleAlias="数据库服务-HBASE" alarmCode="9926" alarmLevel="2" alarmMark="连接数据库服务-HBASE异常" />
+	<Item ID="27" moduleName="FileSyncServer" moduleAlias="文件备份服务" alarmCode="9927" alarmLevel="2" alarmMark="连接文件备份服务异常" />
+	<Item ID="28" moduleName="ConfigAgent" moduleAlias="配置代理" alarmCode="9928" alarmLevel="2" alarmMark="连接配置代理异常" />
+	<Item ID="29" moduleName="ConfigCenterWebServer" moduleAlias="配置服务" alarmCode="9929" alarmLevel="2" alarmMark="连接配置服务异常" />	
+</Alarmlog>

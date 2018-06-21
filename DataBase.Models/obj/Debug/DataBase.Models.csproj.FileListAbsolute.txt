@@ -1,0 +1,10 @@
+E:\EEMSData\DataBaseGenerator\Generator\DataBase.Models.dll
+E:\EEMSData\DataBaseGenerator\Generator\DataBase.Models.pdb
+E:\EEMSData\DataBaseGenerator\DataBase.Models\obj\Debug\DataBase.Models.csprojResolveAssemblyReference.cache
+E:\EEMSData\DataBaseGenerator\DataBase.Models\obj\Debug\DataBase.Models.dll
+E:\EEMSData\DataBaseGenerator\DataBase.Models\obj\Debug\DataBase.Models.pdb
+C:\Users\admin\Desktop\DataBaseGenerator\Generator\DataBase.Models.dll
+C:\Users\admin\Desktop\DataBaseGenerator\Generator\DataBase.Models.pdb
+C:\Users\admin\Desktop\DataBaseGenerator\DataBase.Models\obj\Debug\DataBase.Models.dll
+C:\Users\admin\Desktop\DataBaseGenerator\DataBase.Models\obj\Debug\DataBase.Models.pdb
+C:\Users\admin\Desktop\DataBaseGenerator\DataBase.Models\obj\Debug\DataBase.Models.csprojResolveAssemblyReference.cache

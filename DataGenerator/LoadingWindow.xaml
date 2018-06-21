@@ -1,0 +1,17 @@
+﻿<Window x:Class="DataGenerator.LoadingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Loaded="Window_Loaded"
+        xmlns:local="clr-namespace:DataGenerator.Controls" Closed="Window_Closed" 
+                  WindowStyle="None" AllowsTransparency="True"   WindowStartupLocation="CenterOwner"      ShowInTaskbar="False"
+        Title="LoginWindow" Height="150" Width="450">
+    <Grid>
+        <Border CornerRadius="5" Background="Black" Opacity="0.5" />
+        <StackPanel Orientation="Horizontal">
+            <Grid Margin="15,0,0,0" >
+                <local:LoadingWait  x:Name="loading"></local:LoadingWait>
+                <TextBlock x:Name="tbPr" HorizontalAlignment="Center" FontSize="15" VerticalAlignment="Center" Foreground="White" />
+            </Grid>
+            <TextBlock x:Name="tbMsg" Margin="20,0,0,0" FontSize="20"  Foreground="White" VerticalAlignment="Center" />
+        </StackPanel>
+    </Grid>
+</Window>

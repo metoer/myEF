@@ -1,0 +1,11 @@
+E:\EEMSData\DataBaseGenerator\DataBaseGenerator\bin\Debug\DataBaseGenerator.exe.config
+E:\EEMSData\DataBaseGenerator\Generator\DataBaseGenerator.exe.config
+E:\EEMSData\DataBaseGenerator\Generator\DataBaseGenerator.exe
+E:\EEMSData\DataBaseGenerator\Generator\DataBaseGenerator.pdb
+E:\EEMSData\DataBaseGenerator\DataBaseGenerator\obj\Debug\DataBaseGenerator.csprojResolveAssemblyReference.cache
+E:\EEMSData\DataBaseGenerator\DataBaseGenerator\obj\Debug\DataBaseGenerator.Form1.resources
+E:\EEMSData\DataBaseGenerator\DataBaseGenerator\obj\Debug\DataBaseGenerator.Properties.Resources.resources
+E:\EEMSData\DataBaseGenerator\DataBaseGenerator\obj\Debug\DataBaseGenerator.csproj.GenerateResource.Cache
+E:\EEMSData\DataBaseGenerator\DataBaseGenerator\obj\Debug\DataBaseGenerator.exe
+E:\EEMSData\DataBaseGenerator\DataBaseGenerator\obj\Debug\DataBaseGenerator.pdb
+E:\EEMSData\DataBaseGenerator\DataBaseGenerator\obj\Debug\DataBaseGenerator.Loading.resources
